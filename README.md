@@ -3,8 +3,8 @@
 A full-stack clone of **[daily.dev](https://daily.dev)**, the developer news feed. Users share links to articles, the feed updates **in real time** for everyone, and posts can be discussed in live comment threads. It's built with a **Laravel 11** API and **Laravel Reverb** WebSockets on the backend, and **Next.js 15**, **NextAuth**, and **Tailwind CSS** on the frontend.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SifeYassine/portfolio/main/assets/images/daily_dev1.png" alt="Daily.dev clone feed" width="48%" />
-  <img src="https://raw.githubusercontent.com/SifeYassine/portfolio/main/assets/images/daily_dev2.png" alt="Daily.dev clone post" width="48%" />
+  <img src="screenshots/daily_dev1.png" alt="Daily.dev clone feed" width="48%" />
+  <img src="screenshots/daily_dev2.png" alt="Daily.dev clone post" width="48%" />
 </p>
 
 ## Features
